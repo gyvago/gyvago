@@ -1,4 +1,4 @@
-### Olá sou Gyvago Ribeiro, Empreendedor, Especialista em Desenvolvimento de Sistemas. Analista e Desenvolvedor de Projetos de Software. 👋
+### Olá sou Gyvago Ribeiro, Empreendedor, Especialista em Desenvolvimento de Sistemas. 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Gyvago-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gyvago-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
